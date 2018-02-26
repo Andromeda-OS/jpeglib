@@ -46,7 +46,7 @@
 		1FDE9B2920443783007A5108 /* jccolor.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE9AD62044377F007A5108 /* jccolor.c */; };
 		1FDE9B2B20443783007A5108 /* jcinit.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE9AD82044377F007A5108 /* jcinit.c */; };
 		1FDE9B2C20443783007A5108 /* jdinput.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE9AD92044377F007A5108 /* jdinput.c */; };
-		1FDE9B2E20443783007A5108 /* jconfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FDE9ADB2044377F007A5108 /* jconfig.h */; };
+		1FDE9B2E20443783007A5108 /* jconfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FDE9ADB2044377F007A5108 /* jconfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1FDE9B2F20443783007A5108 /* jinclude.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FDE9ADC2044377F007A5108 /* jinclude.h */; };
 		1FDE9B3020443783007A5108 /* jdapimin.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE9ADD2044377F007A5108 /* jdapimin.c */; };
 		1FDE9B3120443783007A5108 /* jdcolor.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FDE9ADE20443780007A5108 /* jdcolor.c */; };
@@ -268,6 +268,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1FDE9B2E20443783007A5108 /* jconfig.h in Headers */,
 				1FDE9B4220443783007A5108 /* jpeglib.h in Headers */,
 				1FDE9B0C20443783007A5108 /* jerror.h in Headers */,
 				1FDE9B0920443783007A5108 /* jmorecfg.h in Headers */,
@@ -279,7 +280,6 @@
 				1FDE9B0D20443783007A5108 /* cderror.h in Headers */,
 				1FDE9B4320443783007A5108 /* transupp.h in Headers */,
 				1FDE9AFF20443783007A5108 /* jdct.h in Headers */,
-				1FDE9B2E20443783007A5108 /* jconfig.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
