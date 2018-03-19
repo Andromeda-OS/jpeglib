@@ -235,7 +235,7 @@ bogus:
       fclose(fp);
       return FALSE;
     }
-    scanptr++, scanno++;
+    scanptr++; scanno++;
   }
 
   if (termchar != EOF) {
