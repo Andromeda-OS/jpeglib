@@ -10,7 +10,6 @@
 		1FDE9B4C20443A66007A5108 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1FDE9B4B20443A66007A5108 /* README.txt */; };
 		1FF7D7AB206063AA0079C8E8 /* jcomapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D7592060639E0079C8E8 /* jcomapi.c */; };
 		1FF7D7AC206063AA0079C8E8 /* jmemmgr.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D75A2060639E0079C8E8 /* jmemmgr.c */; };
-		1FF7D7AD206063AA0079C8E8 /* djpeg.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D75B2060639E0079C8E8 /* djpeg.c */; };
 		1FF7D7AE206063AA0079C8E8 /* jcapimin.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D75C2060639E0079C8E8 /* jcapimin.c */; };
 		1FF7D7AF206063AA0079C8E8 /* jversion.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D75D2060639E0079C8E8 /* jversion.h */; };
 		1FF7D7B0206063AA0079C8E8 /* wrtarga.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D75E2060639E0079C8E8 /* wrtarga.c */; };
@@ -38,7 +37,6 @@
 		1FF7D7C6206063AA0079C8E8 /* wrppm.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D774206063A10079C8E8 /* wrppm.c */; };
 		1FF7D7C7206063AA0079C8E8 /* jcarith.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D775206063A10079C8E8 /* jcarith.c */; };
 		1FF7D7C8206063AA0079C8E8 /* jcprepct.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D776206063A10079C8E8 /* jcprepct.c */; };
-		1FF7D7C9206063AA0079C8E8 /* cdjpeg.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D777206063A10079C8E8 /* cdjpeg.c */; };
 		1FF7D7CA206063AA0079C8E8 /* rdtarga.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D778206063A10079C8E8 /* rdtarga.c */; };
 		1FF7D7CB206063AA0079C8E8 /* jaricom.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D779206063A20079C8E8 /* jaricom.c */; };
 		1FF7D7CC206063AA0079C8E8 /* jdpostct.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D77A206063A20079C8E8 /* jdpostct.c */; };
@@ -388,7 +386,6 @@
 				1FF7D7DB206063AA0079C8E8 /* jcmaster.c in Sources */,
 				1FF7D7C7206063AA0079C8E8 /* jcarith.c in Sources */,
 				1FF7D7E5206063AA0079C8E8 /* jdhuff.c in Sources */,
-				1FF7D7C9206063AA0079C8E8 /* cdjpeg.c in Sources */,
 				1FF7D7C3206063AA0079C8E8 /* jdcoefct.c in Sources */,
 				1FF7D7DD206063AA0079C8E8 /* jccolor.c in Sources */,
 				1FF7D7B8206063AA0079C8E8 /* jdsample.c in Sources */,
@@ -402,7 +399,6 @@
 				1FF7D7BC206063AA0079C8E8 /* jdarith.c in Sources */,
 				1FF7D7F0206063AA0079C8E8 /* jdmainct.c in Sources */,
 				1FF7D7B1206063AA0079C8E8 /* jcdctmgr.c in Sources */,
-				1FF7D7AD206063AA0079C8E8 /* djpeg.c in Sources */,
 				1FF7D7B7206063AA0079C8E8 /* jquant1.c in Sources */,
 				1FF7D7D2206063AA0079C8E8 /* jidctflt.c in Sources */,
 				1FF7D7FC206063AA0079C8E8 /* jerror.c in Sources */,
