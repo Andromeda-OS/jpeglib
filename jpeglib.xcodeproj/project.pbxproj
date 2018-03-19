@@ -564,6 +564,7 @@
 				INSTALL_PATH = /System/Library/PrivateFrameworks;
 				PRODUCT_BUNDLE_IDENTIFIER = org.puredarwin.jpeglib;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SUPPORTS_TEXT_BASED_API = YES;
 			};
 			name = Debug;
 		};
@@ -583,6 +584,7 @@
 				INSTALL_PATH = /System/Library/PrivateFrameworks;
 				PRODUCT_BUNDLE_IDENTIFIER = org.puredarwin.jpeglib;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SUPPORTS_TEXT_BASED_API = YES;
 			};
 			name = Release;
 		};
