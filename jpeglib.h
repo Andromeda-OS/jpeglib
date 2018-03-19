@@ -25,6 +25,7 @@
 #include <jpeglib/jconfig.h>		/* widely used configuration options */
 #endif
 #include <jpeglib/jmorecfg.h>		/* seldom changed options */
+#include <stdio.h>
 
 
 #ifdef __cplusplus
