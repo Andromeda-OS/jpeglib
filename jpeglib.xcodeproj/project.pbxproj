@@ -25,10 +25,10 @@
 		1FF7D7BA206063AA0079C8E8 /* jfdctint.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D7682060639F0079C8E8 /* jfdctint.c */; };
 		1FF7D7BB206063AA0079C8E8 /* cdjpeg.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D7692060639F0079C8E8 /* cdjpeg.h */; };
 		1FF7D7BC206063AA0079C8E8 /* jdarith.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D76A2060639F0079C8E8 /* jdarith.c */; };
-		1FF7D7BD206063AA0079C8E8 /* jmorecfg.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76B206063A00079C8E8 /* jmorecfg.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		1FF7D7BD206063AA0079C8E8 /* jmorecfg.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76B206063A00079C8E8 /* jmorecfg.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1FF7D7BE206063AA0079C8E8 /* jpegint.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76C206063A00079C8E8 /* jpegint.h */; };
 		1FF7D7BF206063AA0079C8E8 /* jquant2.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D76D206063A00079C8E8 /* jquant2.c */; };
-		1FF7D7C0206063AA0079C8E8 /* jerror.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76E206063A00079C8E8 /* jerror.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		1FF7D7C0206063AA0079C8E8 /* jerror.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76E206063A00079C8E8 /* jerror.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1FF7D7C1206063AA0079C8E8 /* cderror.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D76F206063A00079C8E8 /* cderror.h */; };
 		1FF7D7C2206063AA0079C8E8 /* jcsample.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D770206063A00079C8E8 /* jcsample.c */; };
 		1FF7D7C3206063AA0079C8E8 /* jdcoefct.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D771206063A00079C8E8 /* jdcoefct.c */; };
@@ -71,7 +71,7 @@
 		1FF7D7F1206063AA0079C8E8 /* wrbmp.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D79F206063A70079C8E8 /* wrbmp.c */; };
 		1FF7D7F2206063AA0079C8E8 /* jfdctfst.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D7A0206063A80079C8E8 /* jfdctfst.c */; };
 		1FF7D7F3206063AA0079C8E8 /* jmemsys.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D7A1206063A80079C8E8 /* jmemsys.h */; };
-		1FF7D7F5206063AA0079C8E8 /* jpeglib.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D7A3206063A80079C8E8 /* jpeglib.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		1FF7D7F5206063AA0079C8E8 /* jpeglib.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D7A3206063A80079C8E8 /* jpeglib.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1FF7D7F6206063AA0079C8E8 /* transupp.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FF7D7A4206063A80079C8E8 /* transupp.h */; };
 		1FF7D7F8206063AA0079C8E8 /* jfdctflt.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D7A6206063A90079C8E8 /* jfdctflt.c */; };
 		1FF7D7F9206063AA0079C8E8 /* jctrans.c in Sources */ = {isa = PBXBuildFile; fileRef = 1FF7D7A7206063A90079C8E8 /* jctrans.c */; };
